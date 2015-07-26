@@ -1,6 +1,8 @@
 ## There are two functions defined in this file
+
 ## First is a makeCacheMatrix, assuming a square inversible matrix input
 ## this function caches the inverse of its input
+
 ## Second is a cacheSolve function, that actually computes the inverse of the matrix
 
 ## makeCacheMatrix
